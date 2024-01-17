@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJuYmYiOjE1MTYyMzkwMjIsIm5hbWUiOiJmYXRpbWEgYWNoYmFkIiwicm9sZXMiOlsiQURNSU4iLCJVU0VSIl19.i8_BGq1eHLT1ZNJHUWRMBhZ9UcyefqofcUQMu6fsQIQ"
+    },
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJuYmYiOjE1MTYyMzkwMjIsIm5hbWUiOiJmYXRpbWEgYWNoYmFkIiwicm9sZXMiOlsiQURNSU4iLCJVU0VSIl19.kNxE3m7wkQxnRaPStL6Tp5eZ7H50AgLHDAuOmZddcrw"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJuYmYiOjE1MTYyMzkwMjIsIm5hbWUiOiJmYXRpbWEgYWNoYmFkIiwicm9sZXMiOlsiQURNSU4iLCJVU0VSIl19.eVGXhsg-y3GjDwYKSVv__UNqQEmhMRvdZlRkoIlG05g"
+    }
+  ],
+  "products": [
+    {
+      "name": "phone 1",
+      "price": "1000",
+      "checked": true,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "computer ",
+      "price": "4000",
+      "checked": true
+    },
+    {
+      "name": "phone 3",
+      "price": "3000",
+      "checked": true,
+      "id": 3
+    },
+    {
+      "name": "phone 3",
+      "price": "3000",
+      "checked": true,
+      "id": 3
+    },
+    {
+      "name": "phone 4",
+      "price": "4000",
+      "checked": true,
+      "id": 4
+    },
+    {
+      "name": "phone 5",
+      "price": "5000",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "name": "phone 6",
+      "price": "6000",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "phone 7",
+      "price": "7000",
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "Computer 1",
+      "price": "10000",
+      "checked": true,
+      "id": 8
+    },
+    {
+      "name": "Computer 2",
+      "price": "9000",
+      "checked": true,
+      "id": 9
+    },
+    {
+      "name": "pc hp",
+      "price": "100000",
+      "checked": true,
+      "id": 10
+    }
+  ]
+}
